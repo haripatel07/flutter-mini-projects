@@ -1,0 +1,5 @@
+# Ignore all vendored/generated code
+* linguist-vendored
+
+# Force Dart files to count
+*.dart linguist-vendored=false
